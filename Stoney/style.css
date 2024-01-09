@@ -356,23 +356,6 @@ form .btn2{
     width: 50px;
     height: 50px;
 }
-/*---css for small screen---*/
-@media only screen and (max-width: 600px){
-    #header{
-        background-image: url(images/logo.jpg);
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
 /*--------weather---------*/
 #weather{
     width: 100%;
